@@ -11,9 +11,9 @@ package praktek3;
 public class SepedaAksi {
     public static void main(String[] args) {
        Sepeda s = new Sepeda();
-       s.merk="kupu-kupu";
-       s.warna="merah";
-       s.harga=1000.0;
+       s.setMerk("butterfly");
+       s.setWarna("Merah");
+       s.setHarga(1000.0);
        
        s.cetakInfo();
     }
