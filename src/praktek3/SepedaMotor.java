@@ -9,5 +9,9 @@ package praktek3;
  * @author ASUS
  */
 public class SepedaMotor extends Sepeda{
+    private String JenisMotor;
     
+    void throttle(){
+        System.out.println("NGEEEENNGGG.....");
+    }
 }
