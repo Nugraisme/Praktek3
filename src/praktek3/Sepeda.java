@@ -9,5 +9,7 @@ package praktek3;
  * @author ASUS
  */
 public class Sepeda {
-    
+    String merk;
+    String warna;
+    Double harga;
 }
