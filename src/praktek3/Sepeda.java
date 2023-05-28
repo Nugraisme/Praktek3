@@ -18,4 +18,30 @@ public class Sepeda {
                 "Warna \t : "+warna+"\n"+
                 "Harga \t : "+harga);
     }
+
+    public String getMerk() {
+        return merk;
+    }
+
+    public void setMerk(String merk) {
+        this.merk = merk;
+    }
+
+    public String getWarna() {
+        return warna;
+    }
+
+    public void setWarna(String warna) {
+        this.warna = warna;
+    }
+
+    public Double getHarga() {
+        return harga;
+    }
+
+    public void setHarga(Double harga) {
+        this.harga = harga;
+    }
+    
+    
 }
