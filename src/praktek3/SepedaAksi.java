@@ -13,7 +13,7 @@ public class SepedaAksi {
        Sepeda s = new Sepeda();
        s.merk="kupu-kupu";
        s.warna="merah";
-       s.harga=1000;
+       s.harga=1000.0;
        
        s.cetakInfo();
     }
