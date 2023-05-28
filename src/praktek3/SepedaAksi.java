@@ -15,5 +15,6 @@ public class SepedaAksi {
        s.warna="merah";
        s.harga=1000;
        
+       s.cetakInfo();
     }
 }
